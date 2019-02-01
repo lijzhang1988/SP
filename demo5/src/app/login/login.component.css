@@ -1,0 +1,28 @@
+.login-page{
+  position : relative;
+  width : 100%;
+  left : 30%;
+  margin-top : 200px;
+
+}
+.login-wrap{
+  width : 40%;
+  border : 1px solid #ccc;
+  border-radius : 10px;
+}
+.login-title{
+    text-align : center;
+    background-color : #6c757d;
+    color : white;
+    border-radius : 10px 10px 0px 0px;
+    padding : 15px 0px 10px 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .login-form{
+    padding : 30px;
+  }
+  .login-btn{
+    width : 100%;
+  }
+ 
